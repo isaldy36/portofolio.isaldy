@@ -1,151 +1,33 @@
-# 🌐 Portfolio Website - Aljanu Isaldy
 
-Selamat datang di repository Portfolio Website saya.
 
-Website ini dibuat sebagai media untuk memperkenalkan diri, menampilkan keterampilan, pengalaman organisasi, serta berbagai proyek yang telah saya kerjakan selama masa pendidikan dan pengembangan diri.
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
+-->
 
-## 👨‍💻 Tentang Saya
+## Step 2: Configure your site
 
-Halo, saya **Aljanu Isaldy**, seorang Fresh Graduate SMK jurusan **Teknik Audio Video (TAV)** yang memiliki minat besar di bidang teknologi, pengembangan website, multimedia, dan administrasi.
+_You turned on GitHub Pages! :tada:_
 
-Saya memiliki pengalaman dalam:
+We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
-- Pengembangan Website Front-End
-- Dasar Back-End Development
-- Pengelolaan Database MySQL
-- Microsoft Office (Word, Excel, PowerPoint)
-- Administrasi dan Dokumentasi
-- Editing Video dan Multimedia
-- Desain Konten Digital
-- Organisasi dan Kepemimpinan
+Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
-Saya selalu terbuka untuk belajar hal baru dan terus mengembangkan kemampuan teknis maupun soft skill untuk menghadapi dunia kerja profesional.
+We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
 
----
+### :keyboard: Activity: Configure your site
 
-## 🚀 Teknologi yang Digunakan
+1. Browse to the `_config.yml` file in the `my-pages` branch.
+1. In the upper right corner, open the file editor.
+1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+   ```yml
+   theme: minima
+   ```
+1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
+1. Commit your changes.
+1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-Website ini dibangun menggunakan:
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-- GitHub Pages
-
----
-
-## 🎯 Fitur Website
-
-- Halaman Profil Profesional
-- Tentang Saya (About Me)
-- Daftar Keahlian (Skills)
-- Showcase Project
-- Informasi Pendidikan
-- Pengalaman Organisasi
-- Download Curriculum Vitae (CV)
-- Form Kontak
-- Responsive Design (Mobile & Desktop)
-
----
-
-## 🛠️ Proyek yang Ditampilkan
-
-### Sistem Inventaris Barang
-Aplikasi berbasis web untuk mengelola data inventaris dengan fitur CRUD dan pencarian data.
-
-### Sistem Catatan Keuangan
-Aplikasi pengelolaan pemasukan dan pengeluaran berbasis web menggunakan PHP dan MySQL.
-
-### Sistem Pelaporan Pengaduan
-Platform pelaporan masyarakat dengan fitur tracking status laporan dan dashboard admin.
-
-### Website Portfolio Pribadi
-Website personal untuk menampilkan profil, keahlian, dan hasil karya.
-
----
-
-## 🎓 Pendidikan
-
-**SMK Muhammadiyah 2 Tulangan**  
-Jurusan Teknik Audio Video (TAV)
-
----
-
-## 🏕️ Pengalaman Organisasi
-
-### Sekretaris HISPALA
-(Himpunan Siswa Pecinta Alam)
-
-Tugas dan tanggung jawab:
-
-- Membuat surat dan proposal kegiatan
-- Mengelola administrasi organisasi
-- Dokumentasi kegiatan
-- Mengarsipkan dokumen organisasi
-- Berkoordinasi dengan anggota dan pengurus
-
----
-
-## 💡 Soft Skills
-
-- Komunikasi
-- Kerja Sama Tim
-- Problem Solving
-- Kepemimpinan
-- Manajemen Waktu
-- Adaptasi Lingkungan Kerja
-- Tanggung Jawab
-
----
-
-## ⚙️ Hard Skills
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- Git & GitHub
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
-- Editing Video
-- Administrasi
-
----
-
-## 📄 Curriculum Vitae
-
-CV dapat diunduh melalui website portfolio atau melalui file yang tersedia di repository ini.
-
----
-
-## 📬 Kontak
-
-### Email
-Masukkan email profesional Anda di sini
-
-### LinkedIn
-Masukkan profil LinkedIn Anda di sini
-
-### GitHub
-https://github.com/isaldy36
-
----
-
-## 🌍 Live Website
-
-Website dapat diakses melalui:
-
-```
-https://isaldy36.github.io/portofolioisaldy/
-```
-
----
-
-## 📜 License
-
-Project ini dibuat untuk tujuan pembelajaran, pengembangan diri, dan portfolio profesional.
-
-© 2026 Aljanu Isaldy. All Rights Reserved.
