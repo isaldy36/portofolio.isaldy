@@ -1,54 +1,151 @@
-<header>
+# 🌐 Portfolio Website - Aljanu Isaldy
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Selamat datang di repository Portfolio Website saya.
 
-# GitHub Pages
+Website ini dibuat sebagai media untuk memperkenalkan diri, menampilkan keterampilan, pengalaman organisasi, serta berbagai proyek yang telah saya kerjakan selama masa pendidikan dan pengembangan diri.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## 👨‍💻 Tentang Saya
 
-</header>
+Halo, saya **Aljanu Isaldy**, seorang Fresh Graduate SMK jurusan **Teknik Audio Video (TAV)** yang memiliki minat besar di bidang teknologi, pengembangan website, multimedia, dan administrasi.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+Saya memiliki pengalaman dalam:
 
-## Step 1: Enable GitHub Pages
+- Pengembangan Website Front-End
+- Dasar Back-End Development
+- Pengelolaan Database MySQL
+- Microsoft Office (Word, Excel, PowerPoint)
+- Administrasi dan Dokumentasi
+- Editing Video dan Multimedia
+- Desain Konten Digital
+- Organisasi dan Kepemimpinan
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Saya selalu terbuka untuk belajar hal baru dan terus mengembangkan kemampuan teknis maupun soft skill untuk menghadapi dunia kerja profesional.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 🚀 Teknologi yang Digunakan
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Website ini dibangun menggunakan:
 
-</footer>
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- GitHub Pages
+
+---
+
+## 🎯 Fitur Website
+
+- Halaman Profil Profesional
+- Tentang Saya (About Me)
+- Daftar Keahlian (Skills)
+- Showcase Project
+- Informasi Pendidikan
+- Pengalaman Organisasi
+- Download Curriculum Vitae (CV)
+- Form Kontak
+- Responsive Design (Mobile & Desktop)
+
+---
+
+## 🛠️ Proyek yang Ditampilkan
+
+### Sistem Inventaris Barang
+Aplikasi berbasis web untuk mengelola data inventaris dengan fitur CRUD dan pencarian data.
+
+### Sistem Catatan Keuangan
+Aplikasi pengelolaan pemasukan dan pengeluaran berbasis web menggunakan PHP dan MySQL.
+
+### Sistem Pelaporan Pengaduan
+Platform pelaporan masyarakat dengan fitur tracking status laporan dan dashboard admin.
+
+### Website Portfolio Pribadi
+Website personal untuk menampilkan profil, keahlian, dan hasil karya.
+
+---
+
+## 🎓 Pendidikan
+
+**SMK Muhammadiyah 2 Tulangan**  
+Jurusan Teknik Audio Video (TAV)
+
+---
+
+## 🏕️ Pengalaman Organisasi
+
+### Sekretaris HISPALA
+(Himpunan Siswa Pecinta Alam)
+
+Tugas dan tanggung jawab:
+
+- Membuat surat dan proposal kegiatan
+- Mengelola administrasi organisasi
+- Dokumentasi kegiatan
+- Mengarsipkan dokumen organisasi
+- Berkoordinasi dengan anggota dan pengurus
+
+---
+
+## 💡 Soft Skills
+
+- Komunikasi
+- Kerja Sama Tim
+- Problem Solving
+- Kepemimpinan
+- Manajemen Waktu
+- Adaptasi Lingkungan Kerja
+- Tanggung Jawab
+
+---
+
+## ⚙️ Hard Skills
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Git & GitHub
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
+- Editing Video
+- Administrasi
+
+---
+
+## 📄 Curriculum Vitae
+
+CV dapat diunduh melalui website portfolio atau melalui file yang tersedia di repository ini.
+
+---
+
+## 📬 Kontak
+
+### Email
+Masukkan email profesional Anda di sini
+
+### LinkedIn
+Masukkan profil LinkedIn Anda di sini
+
+### GitHub
+https://github.com/isaldy36
+
+---
+
+## 🌍 Live Website
+
+Website dapat diakses melalui:
+
+```
+https://isaldy36.github.io/portofolioisaldy/
+```
+
+---
+
+## 📜 License
+
+Project ini dibuat untuk tujuan pembelajaran, pengembangan diri, dan portfolio profesional.
+
+© 2026 Aljanu Isaldy. All Rights Reserved.
